@@ -1,0 +1,3 @@
+/home/apatec/cpp/opencv_example/CMakeFiles/main.dir
+/home/apatec/cpp/opencv_example/CMakeFiles/edit_cache.dir
+/home/apatec/cpp/opencv_example/CMakeFiles/rebuild_cache.dir

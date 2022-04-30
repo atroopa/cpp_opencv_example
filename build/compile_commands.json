@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/apatec/cpp/opencv_example/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/apatec/cpp/opencv_example/main.cpp",
+  "file": "/home/apatec/cpp/opencv_example/main.cpp"
+}
+]
